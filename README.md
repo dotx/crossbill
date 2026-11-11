@@ -50,3 +50,7 @@ not available in every country; check before you use them.
 ## License
 
 [MIT](LICENSE)
+
+## Contributing
+
+Read [AGENTS.md](AGENTS.md) and the [code standards](docs/code-standards.md) first.

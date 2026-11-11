@@ -35,3 +35,7 @@ Crossbill 是工具。它发现信号、执行操作，但不判断信号好不�
 ## 许可证
 
 [MIT](LICENSE)
+
+## 参与开发
+
+先读 [AGENTS.md](AGENTS.md) 和[代码规范](docs/code-standards.md)。
