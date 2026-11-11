@@ -1,0 +1,12 @@
+# build
+/crossbill
+/dist/
+*.test
+*.out
+
+# local state and secrets: never committed
+.env
+.env.*
+*.key
+*.keystore
+/data/
